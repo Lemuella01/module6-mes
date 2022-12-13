@@ -120,14 +120,14 @@ nav {
 }
 
 .main-container {
-  margin: 10px 10px 30px 7%;
-  height: 80vh;
-  background: -webkit-linear-gradient(
+  margin: 10px 10px 0 7%;
+  height: 10%;
+  background:linear-gradient(
     top,
     rgba(255, 255, 255, 0.988) 55%,
-    rgba(211, 253, 242, 0.991) 3%,
-    rgb(250, 255, 253) 21%,
-    rgb(213, 252, 234) 100%,
+   
+ 
+    rgb(176, 219, 199) 100%,
     rgba(231, 255, 244, 0.937) 01%
   );
   border: 5px solid white;
