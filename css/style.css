@@ -120,18 +120,18 @@ nav {
 }
 
 .main-container {
-  margin: 10px 10px 0 7%;
-  height: 10%;
-  background:linear-gradient(
+  margin: 10px 10px 10px 7%;
+
+  background: -webkit-linear-gradient(
     top,
     rgba(255, 255, 255, 0.988) 55%,
-   
- 
-    rgb(176, 219, 199) 100%,
+    rgba(211, 253, 242, 0.991) 3%,
+    rgb(250, 255, 253) 21%,
+    rgb(213, 252, 234) 100%,
     rgba(231, 255, 244, 0.937) 01%
   );
   border: 5px solid white;
-  padding: 10px;
+  
 }
 
 .top-text p {
@@ -208,7 +208,7 @@ nav {
 }
 
 .messidor {
-  background-image: url("/assets/messiball.jpeg");
+  background-image: url("../assets/messiball.jpeg");
   width: 100%;
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
