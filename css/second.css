@@ -299,12 +299,12 @@ footer {
   display: flex;
   list-style-type: none;
   padding-left: 143px;
-  border-top: 1px solid rgba(233, 231, 231, 0.517);
+  border-top: 1px solid rgba(161, 158, 158, 0.517);
 
   height: 50px;
 }
 .footer1 p {
-  border-right: 1px solid rgba(233, 231, 231, 0.517);
+  border-right: 1px solid rgba(130, 126, 126, 0.517);
   height: 30px;
   padding-top: 3lpx;
   padding-right: 10px;
